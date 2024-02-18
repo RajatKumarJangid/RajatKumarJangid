@@ -13,7 +13,7 @@ player experienced in delivering efficient and reliable backend solutions. Skill
 <br/>
 
 * 🌍  I come from the city of Guwahati, Assam.
-* 🔥  Here is my [Portfolio]() for more details.
+* 🔥  Here is my [Portfolio](https://rajatkumarjangid.github.io/) for more details.
 * ✉️  You can connect with me through my email at [jangidrajat105@gmail.com]
 <br />
 <hr>
@@ -36,6 +36,7 @@ player experienced in delivering efficient and reliable backend solutions. Skill
   <a href="https://www.linkedin.com/in/rajat-jangid-2b2a5b232/" target="https://www.linkedin.com/in/rajat-jangid-2b2a5b232/">
   <img align="center" src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white" alt="" />
   </a>
+  
 </p>
 
 

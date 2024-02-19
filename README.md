@@ -13,7 +13,7 @@ player experienced in delivering efficient and reliable backend solutions. Skill
 <br/>
 
 * 🌍  I come from the city of Guwahati, Assam.
-* 🔥  Here is my Portfolio : https://rajatkumarjangid.github.io/ for more details.
+* 🔥  Portfolio : https://rajatkumarjangid.github.io/
 * ✉️  You can connect with me through my email at [jangidrajat105@gmail.com]
 <br />
 <hr>

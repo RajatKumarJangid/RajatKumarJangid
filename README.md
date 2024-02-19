@@ -13,8 +13,10 @@ player experienced in delivering efficient and reliable backend solutions. Skill
 <br/>
 
 - 🌍  I come from the city of Guwahati, Assam.
+- :seedling: I’m currently learning **Node.js**
 - Portfolio [https://rajatkumarjangid.github.io/](https://rajatkumarjangid.github.io/)
-- ✉️  You can connect with me through my email at [jangidrajat105@gmail.com]
+- :speech_balloon: Ask me about **Development**
+- :mailbox: How to reach me **jangidrajat105@gmail.com**
 <br />
 <hr>
 

@@ -12,9 +12,9 @@ I'm a NodeJS Developer skilled in NodeJS, Express, MongoDB and Mongoose. A colla
 player experienced in delivering efficient and reliable backend solutions. Skilled in collaboration, decision-making, and Data Structures & Algorithms </h4>
 <br/>
 
-* 🌍  I come from the city of Guwahati, Assam.
-* 🔥  Portfolio : https://rajatkumarjangid.github.io/
-* ✉️  You can connect with me through my email at [jangidrajat105@gmail.com]
+- 🌍  I come from the city of Guwahati, Assam.
+- Portfolio [https://abhaysinh-gaikwad.github.io/](https://abhaysinh-gaikwad.github.io/)
+- ✉️  You can connect with me through my email at [jangidrajat105@gmail.com]
 <br />
 <hr>
 
